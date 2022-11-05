@@ -1,0 +1,14 @@
+{
+  "name": "homework-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -p ./tsconfig.json && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.19.3"
+  }
+}
